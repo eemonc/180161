@@ -1,0 +1,9 @@
+* {
+	font-family: 'Noto Serif', serif;
+}
+.center {
+	text-align: center;
+}
+.row:hover {
+	color: green;
+}
